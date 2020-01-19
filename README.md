@@ -143,6 +143,48 @@ train and reskill employees for the post-digital age. They will also need to cap
 knowledge so that it remains in house, rather than in the minds of people who may be
 transitioning in and out of jobs.
 
+# Trend 4
+## Secure Us To Secure Me
+### Enterprises are not victims, they are vectors
+
+The need for collaboration is as great in healthcare
+as in any other industry. 
+
+Healthcare organizations enjoy the benefits of collaborating with the ecosystem—providers,
+payers, device companies, equipment manufacturers and more—but those connections increase
+risk. Through collaboration, businesses are extending, and absorbing, the risk and vulnerabilities
+of their ecosystem partners. Yet most businesses still look at cybersecurity as strictly an
+individual effort.
+It’s an especially tough spot for healthcare organizations because unlike in other industries,
+they sometimes don’t have a choice about with whom they collaborate. It’s a mandate.
+This heightened level of exposure is good news for the “bad guys” who view ecosystems as an
+ever-widening attack surface. Healthcare businesses must, in response, evolve their approach
+and stand up a stronger security posture that factors in ecosystem partners. New models and
+policies must ensure that the partners and third parties joining the ecosystem adhere to the
+same standard of security—or higher—that they set for themselves.
+The need for collaboration is as great in healthcare
+as in any other industry.
+
+
+# Trend 5
+## # Mymarkets
+### Meet consumers needs at the speed of now
+
+Healthcare is more connected than ever in the post-digital age. 
+
+Digital expectations have now evolved and a new opportunity to deliver better experiences
+is on the table: capturing moments. Technology has created a world of intensely customized
+and on-demand experiences, so healthcare organizations must reinvent themselves to find
+and capture those opportunities as they come.
+Powerful analytics capabilities allow payers and providers to understand their current and
+potential markets and identify moments that matter. Sophisticated backend technology can
+reorient the business quickly and help it pull together the right capabilities and services at the
+right time to deliver a remarkable experience at a specific point in time. Miss the moment, miss
+the chance.
+Many are investing in the tools it will take, such as AI to predict trends and preferences,
+and forecasting to identify and act on future opportunities in the moment. Is your business
+equipped to unlock these momentary markets? 
+
 
 
 
