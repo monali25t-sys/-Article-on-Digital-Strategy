@@ -51,6 +51,27 @@ people want it.
 Healthcare is in a unique place in the “post-digital” world. The industry has recognized that digital must become part of everything it does. And while investments in social, mobile, analytics and cloud (SMAC) technologies are progressing and demonstrating value, leaders must look ,toward what’s next to differentiate in this new era. There is no longer a separation of digital and non-digital. The future will be about full adoption of SMAC and embracing new technologies to transform outcomes and ultimately change lives. Planning today for the post-digital world is critical as healthcare enterprises continue on their digital transformation journeys.
 This year’s Accenture Digital Health Tech Vision highlights five emerging trends that will shape healthcare enterprises over the next three to five years: DARQ Power, Get to Know Me, Human Worker, Secure US to Secure ME and MyMarkets. In each trend, you will see how the maturity of digital technologies across business and society is raising expectations, abilities and risk in healthcare. Fortunately, it’s an era of equally tremendous possibility.
 
+# The Big Picture
+Accenture’s Digital Health Tech Vision comprises a three-year set of technology trends, which includes our reports from 2018 and 2017. It’s important to recognize that this year’s trends are part of a bigger picture. As healthcare companies continue to grow as digital
+businesses, they will need to keep up with the latest technologies, as well as continue to master those that have been maturing. These technologies will collectively inform how enterprises build the next generation of business and create paths toward future growth. 
+
 ![https://github.com/monali25t-sys/-Article-on-Digital-Strategy/blob/master/Accenture-Year-Trends.jpg](https://github.com/monali25t-sys/-Article-on-Digital-Strategy/blob/master/Accenture-Year-Trends.jpg "https://github.com/monali25t-sys/-Article-on-Digital-Strategy/blob/master/Accenture-Year-Trends.jpg")
+
+# Trend 1
+## DARQ POWER-
+### Understanding the DNA of DARQ
+
+New technologies are catalysts for change, offering
+extraordinary new capabilities when applied appropriately. 
+
+The next set of emerging technologies—Distributed ledger technology (DLT), artificial intelligence (AI), extended reality (XR) and quantum computing—can spark a step change that allows businesses to reimagine entire industries.Years ago, social, mobile, analytics and cloud (SMAC) technologies emerged, allowing businesses to understand their partners and consumers at unprecedented depth. Healthcare
+enterprises are adopting SMAC as part of their digital transformations, but they have not come as far in adoption maturity as other industries. The adoption of SMAC in healthcare also varies by industry sector. Payers have embraced SMAC to a greater degree than providers over the past decade. A majority of providers are just beginning the journey as they are in early stages of their
+digital transformations. 
+
+The imperative has become stronger for healthcare organizations to adopt technologies that create a digital foundation for the future. Accenture’s Disruptability Index, which analyzes disruption across 20 industries, puts healthcare among the most vulnerable to future disruption.
+1 .Those most vulnerable to disruption are under pressure to scale new technologies. Some are mastering the new as part of their core business while others are experimenting to learn how these technologies can deliver new sources of value. The most successful healthcare organizations will be those that recognize change is in motion.
+2. While driving the use of SMAC technologies to maturity in their application to healthcare, they will be thinking about—and
+planning for—the future impact of DARQ technology on their enterprises. 
+
 
 
