@@ -123,7 +123,7 @@ personally identifying information was ever shared.10 Now, in the post-digital e
 have greater opportunity to use technology identities and insights to shift from one-off
 transactions to ongoing customized relationships with individualized experiences. 
 
-# Trend 3:
+# Trend 3
 ## Human + Worker
 ### Change the workplace or hinder the workforce
 
@@ -167,7 +167,7 @@ as in any other industry.
 
 
 # Trend 5
-## # Mymarkets
+## Mymarkets
 ### Meet consumers needs at the speed of now
 
 Healthcare is more connected than ever in the post-digital age. 
