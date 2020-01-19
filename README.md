@@ -1,4 +1,4 @@
-# Article-on-Digital-Strategy
+# Article on Digital Strategy
 **Digital Strategy** is the application of digital technologies to business models to form new differentiating business capabilities. In the future, all business strategy will be digital strategy.
 
 # Evolving the Definition of Business Strategy
