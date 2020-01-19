@@ -14,3 +14,5 @@ As an example, say your digital strategy (ultimate goal) is to monetize basic pr
 There is a tendency to talk about digital transformation interchangeably with digital strategy. The two terms are closely related, but differ in scope. Digital transformation drives change in three areas: customer experience, operational processes and business models. The process of digital transformation requires coordination across the entire organization, and involves business culture changes.
 
 Digital strategy, on the other hand, focuses on technology, not culture. Digital strategy is most relevant to changes in business models, and uses technology to create the capabilities a company needs to become a digital business. Setting down a strategy is a key component of the transformation process, and ensures that technology is being implemented in a way that supports the business objectives.
+![https://github.com/monali25t-sys/-Article-on-Digital-Strategy/blob/master/DigitalStrategy.png](https://github.com/monali25t-sys/-Article-on-Digital-Strategy/blob/master/DigitalStrategy.png "https://github.com/monali25t-sys/-Article-on-Digital-Strategy/blob/master/DigitalStrategy.png")
+
