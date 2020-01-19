@@ -1,1 +1,1 @@
-# -Article-on-Digital-Strategy
+# Article-on-Digital-Strategy
