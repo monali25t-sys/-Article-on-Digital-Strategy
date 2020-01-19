@@ -50,3 +50,7 @@ people want it.
 
 Healthcare is in a unique place in the “post-digital” world. The industry has recognized that digital must become part of everything it does. And while investments in social, mobile, analytics and cloud (SMAC) technologies are progressing and demonstrating value, leaders must look ,toward what’s next to differentiate in this new era. There is no longer a separation of digital and non-digital. The future will be about full adoption of SMAC and embracing new technologies to transform outcomes and ultimately change lives. Planning today for the post-digital world is critical as healthcare enterprises continue on their digital transformation journeys.
 This year’s Accenture Digital Health Tech Vision highlights five emerging trends that will shape healthcare enterprises over the next three to five years: DARQ Power, Get to Know Me, Human Worker, Secure US to Secure ME and MyMarkets. In each trend, you will see how the maturity of digital technologies across business and society is raising expectations, abilities and risk in healthcare. Fortunately, it’s an era of equally tremendous possibility.
+
+![https://github.com/monali25t-sys/-Article-on-Digital-Strategy/blob/master/Accenture-Year-Trends.jpg](https://github.com/monali25t-sys/-Article-on-Digital-Strategy/blob/master/Accenture-Year-Trends.jpg "https://github.com/monali25t-sys/-Article-on-Digital-Strategy/blob/master/Accenture-Year-Trends.jpg")
+
+
