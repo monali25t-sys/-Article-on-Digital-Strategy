@@ -15,4 +15,26 @@ There is a tendency to talk about digital transformation interchangeably with di
 
 Digital strategy, on the other hand, focuses on technology, not culture. Digital strategy is most relevant to changes in business models, and uses technology to create the capabilities a company needs to become a digital business. Setting down a strategy is a key component of the transformation process, and ensures that technology is being implemented in a way that supports the business objectives.
 ![https://github.com/monali25t-sys/-Article-on-Digital-Strategy/blob/master/DigitalStrategy.png](https://github.com/monali25t-sys/-Article-on-Digital-Strategy/blob/master/DigitalStrategy.png "https://github.com/monali25t-sys/-Article-on-Digital-Strategy/blob/master/DigitalStrategy.png")
+# Digital Strategy vs. IT Strategy
+digital strategy looks for ways to use technology to transform activity, and therefore business, whereas IT strategy aims to transform technology in isolation from the rest of the business. Traditionally, the process of IT strategy has been to determine which technologies to invest in, based on the current direction of the business. Digital strategy instead looks at the activities and processes that need to be transformed to provide better services for customers. Then, it looks for the right combination of technologies and strategies that can be combined to create these experiences. Digital leaders have found new competitive advantages and opportunities for growth by making this shift in strategy.
+
+# Where to Start
+How do you build a digital strategy? Rather than asking, “What’s our digital strategy?”, an article from Harvard Business Review suggests using the five following questions to ground your understanding of digital technology:
+
+Does digital technology change the businesses you should be in?
+How could digital technology improve the way you add value to the businesses you are in?
+Could digital technology change your target customer?
+Does digital technology affect the value proposition to your target customer?
+How can digital technology enhance the enterprise capabilities that differentiate you from your competition?
+To some companies, these questions will have obvious answers, especially those that have already experienced disruption or competition from new digital players. The intention is to identify how digital changes what you do, and then refine your understanding from broad industry trends to specific values that will form the foundation of your strategy. By beginning with a clear understanding of your company’s purpose, you can avoid wasting time and resources implementing technology that doesn’t enable new competitive advantages.
+
+# Common Elements of Digital Strategy
+## Choose a Leader — 
+This is arguably the most important part of creating a digital strategy, but choosing the right person will depend on company culture, structure and priorities. Whether companies place leadership with the CEO or an appointed Chief Digital Officer, the leader’s influence will need to match the scope of digital strategy; otherwise, it will be difficult to create the full buy-in from each department necessary to make effective changes.
+## Attack vs. Defend —
+McKinsey & Company emphasizes that companies would do well to categorize their potential threats and opportunities in digital business, then compare these against their own purpose. This clarifies whether a proactive or defensive stance needs to guide new initiatives.
+## Take a Measured Approach —
+Digital strategy often incorporates a process for assessing whether new technology will really complement or grow the current business. If you fear that your company is already behind on digital, it can be tempting to rush into a project without looking at how it fits your current strategy. By taking a measured approach, you can avoid wasting resources on initiatives that don’t align with your business’s needs and priorities.
+## Future Proof — 
+The goal of digital transformation is to create an appropriate foundation for digital business. This means creating an organization that can continue to reinvent itself as necessary to keep up with changes in technology and customer expectations. Digital strategy should be visionary enough to carry companies through changes in the digital economy, in a way that continues to bring a digital edge to the business.
 
