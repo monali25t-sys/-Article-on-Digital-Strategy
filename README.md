@@ -103,6 +103,27 @@ with biotechnology innovator Biogen to develop a first-of-its-kind quantum-enabl
 significantly improve advanced molecular design to speed up drug discovery for complex neurological conditions such as multiple
 sclerosis, Alzheimer’s, Parkinson’s and Lou Gehrig’s Disease.
 
+# Trend 2
+# Get To Know Me
+## Unlock unique consumers and unique opportunities
+
+The sets of technologies people use are now so integrated
+into their lives that they have become a part of their identities. 
+
+Data captured in the digital and physical worlds, along with related data sets (e.g. demographics,
+sociographics), can converge to create a technology identity for an individual. Healthcare leaders
+can use people’s technology identities to create a new generation of offerings and experiences.
+The digital revolution introduced technology identities as part of an emerging feedback loop, one
+that first began to show potential via personalization efforts. Thanks to ecosystem connections,
+healthcare organizations are increasingly using these identities to deliver more personalized and
+individualized services. For instance, Kinsa’s connected thermometers let customers track their
+fevers via a smartphone app; Clorox paid to license the information, using it to direct ads to US
+ZIP codes where people had more fevers (and potentially more need for disinfecting wipes). No
+personally identifying information was ever shared.10 Now, in the post-digital era, organizations
+have greater opportunity to use technology identities and insights to shift from one-off
+transactions to ongoing customized relationships with individualized experiences. 
+
+
 
 
 
