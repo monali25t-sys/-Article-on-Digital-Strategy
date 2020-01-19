@@ -73,5 +73,36 @@ The imperative has become stronger for healthcare organizations to adopt technol
 2. While driving the use of SMAC technologies to maturity in their application to healthcare, they will be thinking about—and
 planning for—the future impact of DARQ technology on their enterprises. 
 
+# Seeing Into The DARQ
+
+## DARQ technologies and some of the capabilities they enable
+
+DARQ technologies are poised to become the foundation for next-generation products and services. Healthcare leaders in the DARQ-driven future will be prepared to combine and exploit those competencies as the technologies reach enterprise-level maturity. 
+
+Even before DARQ technologies have reached full maturity, healthcare enterprises can see the value on the horizon. Whether lowering the cost of care, improving labor productivity or enabling better experiences for consumers and partners, regardless of training or intent, DARQ potential runs deep. To take advantage of the transformational new capabilities that DARQ technologies will offer, payers and providers must explore the possibilities now
+
+# DLT
+In the future, distributed ledger technology, such as blockchain, will be an important part of healthcare payments and identity
+management. Healthcare enterprises can reduce waste, save costs and increase quality of care by using DLT to create a trusted set of
+data so that people can act on the information rather than having to go back to the source of truth to verify its authenticity. DLT shows great promise for qualifying individuals for insurance benefits, identifying patient payment obligations and credentialing providers, rather than clinicians having to go through a similar process across multiple care settings. The Professional Credentials Exchange (ProCredEx) is a distributed ledger program that cuts—for providersand organizations vetting providers—the time, cost and complexity associated with the credentialing process.3 The Synaptic Health Alliance intends to use DLT to create a cooperatively owned provider data exchange to collect and share changes to provider data, starting with demographics. 
+
+# AI
+When asked to rank which of the DARQ technologies will have the greatest impact on their organization over the next three years, 41%
+of healthcare executives ranked AI number one. AI has perhaps the greatest number of emerging use cases in healthcare. The
+constellation of artificial intelligence technologies is already having tremendous impact on labor, a substantial line item in healthcare. AI is used in contact centers, for payment activities, medical chart reviews and it can help patients take part in self-service.Healthcare organizations are using the full collection of AI technologies to change how we interact with doctors. AI will augment diagnoses—it can already identify diseases based on facial features,4 retina scans, X-rays and speech—and it can even help patients to self-diagnose before they walk through the doors of the doctor’s office. Froedtert Health and the Medical College of Wisconsin Health Network partnered with Buoy to deliver an interactive digital tool that allows users to enter their symptoms and receive—in real time— personalized analysis and recommendations for care options. Buoy uses an algorithm to listen and calculate input, and it gets smarter as more people use the too
+
+# XR
+Interestingly, extended reality shows the highest adoption of DARQ technologies with 38% of healthcare organizations having adopted
+XR across one or more business units. XR allows machines to operate cognitively, as humans do, and it allows people to interact naturally with technology. The technology makes immersive experiences commonplace and it solves for time and distance, making each
+factor less relevant.Cedars-Sinai is using XR for pain management. By using XR to teach patients how to better cope with pain through breathing techniques and positive thinking, they were able to reduce pain by 24% after 10 minutes.6 Cleveland Clinic and Zygote Medical Education are using virtual reality to move clinical anatomy curriculum out of the cadaver lab and into a virtual environment. Students can use their mobile devices to access precise 3D models of anatomy and connect with peers all over the world.
+
+# QUANTUM
+Healthcare organizations will be making quantum leaps in the future, using the technology to crunch complex data sets, such as DNA
+data, to enable more personalized medicine and interactions. For instance, quantum tech gurus at Accenture and 1QBit collaborated
+with biotechnology innovator Biogen to develop a first-of-its-kind quantum-enabled molecular comparison application that could
+significantly improve advanced molecular design to speed up drug discovery for complex neurological conditions such as multiple
+sclerosis, Alzheimer’s, Parkinson’s and Lou Gehrig’s Disease.
+
+
 
 
