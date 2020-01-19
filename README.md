@@ -104,8 +104,8 @@ significantly improve advanced molecular design to speed up drug discovery for c
 sclerosis, Alzheimer’s, Parkinson’s and Lou Gehrig’s Disease.
 
 # Trend 2
-# Get To Know Me
-## Unlock unique consumers and unique opportunities
+## Get To Know Me
+### ## Unlock unique consumers and unique opportunities
 
 The sets of technologies people use are now so integrated
 into their lives that they have become a part of their identities. 
