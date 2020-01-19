@@ -1,6 +1,6 @@
 # Article on Digital Strategy
 
-# Digital strategy:
+# Digital Strategy:
 ## merging the real and virtual world
 The era of digitalization is rewriting the way of approaching the market and, as a consequence, the strategies of competition. Today’s leaders need to take decisions in order to tackle and thrive under the new circumstances conceived by the digital revolution. The
 merger of the real and the virtual world, together with business intelligence and technology, have impacted how business is done. Hence,
