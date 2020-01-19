@@ -6,7 +6,6 @@ The era of digitalization is rewriting the way of approaching the market and, as
 merger of the real and the virtual world, together with business intelligence and technology, have impacted how business is done. Hence,
 companies need to define their digital strategy. If not, they will be left behind. 
 
-![https://github.com/monali25t-sys/-Article-on-Digital-Strategy/blob/master/hands-businessman-analyzing-sales-data-260nw-1401229571.heic](https://github.com/monali25t-sys/-Article-on-Digital-Strategy/blob/master/hands-businessman-analyzing-sales-data-260nw-1401229571.heic "https://github.com/monali25t-sys/-Article-on-Digital-Strategy/blob/master/hands-businessman-analyzing-sales-data-260nw-1401229571.heic")
 
 
 **Digital Strategy** is the application of digital technologies to business models to form new differentiating business capabilities. In the future, all business strategy will be digital strategy.
