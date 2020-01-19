@@ -41,13 +41,3 @@ The goal of digital transformation is to create an appropriate foundation for di
 
 To some companies, these questions will have obvious answers, especially those that have already experienced disruption or competition from new digital players. The intention is to identify how digital changes what you do, and then refine your understanding from broad industry trends to specific values that will form the foundation of your strategy. By beginning with a clear understanding of your company’s purpose, you can avoid wasting time and resources implementing technology that doesn’t enable new competitive advantages.
 
-# Common Elements of Digital Strategy
-## Choose a Leader — 
-This is arguably the most important part of creating a digital strategy, but choosing the right person will depend on company culture, structure and priorities. Whether companies place leadership with the CEO or an appointed Chief Digital Officer, the leader’s influence will need to match the scope of digital strategy; otherwise, it will be difficult to create the full buy-in from each department necessary to make effective changes.
-## Attack vs. Defend —
-McKinsey & Company emphasizes that companies would do well to categorize their potential threats and opportunities in digital business, then compare these against their own purpose. This clarifies whether a proactive or defensive stance needs to guide new initiatives.
-## Take a Measured Approach —
-Digital strategy often incorporates a process for assessing whether new technology will really complement or grow the current business. If you fear that your company is already behind on digital, it can be tempting to rush into a project without looking at how it fits your current strategy. By taking a measured approach, you can avoid wasting resources on initiatives that don’t align with your business’s needs and priorities.
-## Future Proof — 
-The goal of digital transformation is to create an appropriate foundation for digital business. This means creating an organization that can continue to reinvent itself as necessary to keep up with changes in technology and customer expectations. Digital strategy should be visionary enough to carry companies through changes in the digital economy, in a way that continues to bring a digital edge to the business.
-
