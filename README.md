@@ -123,6 +123,26 @@ personally identifying information was ever shared.10 Now, in the post-digital e
 have greater opportunity to use technology identities and insights to shift from one-off
 transactions to ongoing customized relationships with individualized experiences. 
 
+# Trend 3:
+## Human + Worker
+### Change the workplace or hinder the workforce
+
+Digital transformations arent just about technology
+—theyre about people. 
+
+Businesses across the healthcare industry are witnessing the rise of a human + machine
+collaborative workforce where each individual is empowered by their skillsets and knowledge
+plus a new, constantly growing set of capabilities made possible through technology.
+Today’s healthcare workers are incorporating technology to perform their current roles in new
+ways and to adapt for new roles that did not exist in the pre-digital era. However, the workforce
+is evolving so rapidly with the help of technology, the enterprise supporting the workforce has
+yet to catch up.
+As healthcare organizations continue to innovate and push boundaries, they will need to
+create new jobs and new roles immersed in technology. They will need to invest in new ways to
+train and reskill employees for the post-digital age. They will also need to capture institutional
+knowledge so that it remains in house, rather than in the minds of people who may be
+transitioning in and out of jobs.
+
 
 
 
